@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BRAYAN MEZA</h1>
-<h3 align="center">Computer engineer. A passionate frontend developer from Colombua</h3>
+<h3 align="center">Computer engineer. A passionate full stack developer from Colombua</h3>
 
 - 🌱 I’m currently learning **Spring Boot,Flutter and modules of my university**
 
